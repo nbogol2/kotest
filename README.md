@@ -13,6 +13,6 @@ SLAVES ZONA
 ============
 1
 
-2 f1
+2 771-bugfix
 
 3
