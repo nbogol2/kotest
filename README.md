@@ -1,10 +1,26 @@
 kotest
 ======
-update2
-update1
 
-kot test
+MASTER ZONA
+============
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
-this is f1
-
-END
+SLAVES ZONA
+============
+1
+2
+3
+4
+5
+6
+7
+8
+9
