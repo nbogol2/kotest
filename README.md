@@ -13,6 +13,6 @@ SLAVES ZONA
 ============
 1
 
-2 771-bugfix
+2 772-enh
 
 3
