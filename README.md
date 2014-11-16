@@ -3,7 +3,7 @@ kotest
 
 MASTER ZONA
 ============
-1 u6
+1 u2-1
 
 2
 
